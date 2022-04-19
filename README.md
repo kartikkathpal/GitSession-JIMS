@@ -6,9 +6,9 @@
 
 2. **Clone** the **forked repo** to your device
  
-3. Create a **new Markdown file** with the folder name as your **GitHub ID**
+3. Create a **new Markdown file** with the file name as your **GitHub ID**
 
-4. **Save your work** in the newly created folder
+4. **Save your work**
 
 5. **Push the work** to your forked repo
 
